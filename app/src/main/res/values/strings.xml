@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reminder App 1190336</string>
+    <string name="app_title">Reminder App</string>
+    <string name="inputHint">Please Enter A Todo Task:</string>
+    <string name="btnTxt">Add</string>
+    <string name="switchTxt">Mark The Switch if the Added Task is important</string>
+    <string-array name="spinnerValues">
+        <item name="0"></item>
+        <item name="1">Workout</item>
+        <item name="2">Study</item>
+        <item name="3">Work</item>
+    </string-array>
+</resources>
